@@ -1,0 +1,61 @@
+h3 {
+  margin-top: 20px;
+  padding-left: 30px;
+}
+
+img {
+  width: 500px;
+  height: 500px;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+/*Soal 2*/
+/*
+Selector menunjuk ke elemen HTML yang ingin kita ubah.
+Blok deklarasi berisi satu atau lebih deklarasi yang dipisahkan tanda semicolons.
+Setiap deklarasi menyertakan nama properti CSS dan value, dipisahkan tanda colon.
+Beberapa deklarasi CSS dipisahkan dengan semicolons, dan blok deklarasi dikelilingi oleh curly braces.
+*/
+
+/*Soal 3*/
+/*
+Jika ada dua atau lebih aturan CSS yang mengarah ke elemen yang sama, 
+selector dengan nilai spesifisitas tertinggi akan "menang", 
+dan deklarasi style-nya akan diterapkan ke elemen HTML tersebut.
+*/
+
+/*Soal 4*/
+/*
+Responsive Website ialah design yang membuat halaman web kita terlihat bagus di semua perangkat.
+Disebut Responsive Web Design ketika kita menggunakan CSS dan HTML untuk mengubah ukuran, 
+menyembunyikan, mengecilkan, memperbesar, atau memindahkan konten agar terlihat bagus di layar apa pun.
+*/
+
+/*Soal 5*/
+/*
+Media query adalah teknik CSS yang diperkenalkan di CSS3. 
+Media query menggunakan aturan @media untuk menyertakan blok properti CSS hanya jika kondisi tertentu benar.
+*/
+
+/*Soal 6*/
+/*
+Flexbox Layout Module memudahkan perancangan struktur tata letak responsif yang fleksibel 
+tanpa menggunakan float atau positioning.
+Sedangkan Grid Layout Module menawarkan sistem tata letak berbasis grid, dengan baris dan kolom, 
+sehingga memudahkan untuk mendesain halaman web tanpa harus menggunakan float dan positioning.
+*/
+
+/*Soal 7*/
+/*
+Bootstrap adalah kerangka kerja (framework) front-end gratis 
+untuk pengembangan web yang lebih cepat dan lebih mudah.
+Bootstrap menyertakan template desain berbasis HTML dan CSS untuk tipografi, 
+formulir, tombol, tabel, navigasi, modal, carousel gambar, dan banyak lainnya, 
+serta plugin JavaScript opsional.
+Bootstrap juga memberi kita kemampuan untuk membuat desain responsif dengan mudah.
+*/

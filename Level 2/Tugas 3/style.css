@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@font-face {
+  font-family: SFPRODISPLAYREGULAR;
+  src: url("SFPRODISPLAYREGULAR.otf") format("opentype");
+}
+
+.jumbotron {
+  background: url("ImageBackground.png");
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid {
+  background-color: rgba(42, 38, 61, 0.82);
+  height: inherit;
+  width: inherit;
+  text-align: center;
+  padding: 5%;
+}
+
+.display1 {
+  font-family: 'Pacifico', cursive;
+  color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 84px;
+  text-align: center;
+}
+
+.travelTo {
+  color: #FCB371;
+}
+
+.display2 {
+  color: #fff;
+  font-family: 'SFPRODISPLAYREGULAR';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.btn {
+  font-family: 'Pacifico', cursive;
+}
+
+.aboutus {
+  background-color: transparent;
+  border: 2px solid #FCB371;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+
+.textAbout {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.reserv {
+  background: #FCB371;
+  border-radius: 6px;
+}
+
+.textReserv {
+  color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
